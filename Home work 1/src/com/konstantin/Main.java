@@ -5,7 +5,7 @@ package com.konstantin;
 public class Main {
 
     public static void main(String[] args) {
-        worker wrk = new worker();
+        Worker wrk = new Worker();
 
         // 1.Определение максимального числа из двух чисел
         int num1 = 26;

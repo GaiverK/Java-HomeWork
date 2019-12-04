@@ -1,6 +1,6 @@
 package com.konstantin;
 
-public class worker {
+public class Worker {
 
     public String getMaxNum(int num1, int num2){
         if( num1 == num2 ) return "equal";
