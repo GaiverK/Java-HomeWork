@@ -1,2 +1,2 @@
 # Java-HomeWork
-All homeworks from the Hillel
+All homeworks from the Hillel school
